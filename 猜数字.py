@@ -11,5 +11,6 @@ while 1:
             print('你的数字猜大了！')
         else:
             print('恭喜您猜对了！')
+            break
     else:
         print('请输入0-100以内的数字！')
